@@ -1,1 +1,1 @@
-# SI
+# Securitatea Informatiei
